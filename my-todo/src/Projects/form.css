@@ -1,0 +1,18 @@
+.main{
+    margin-top: 2rem;
+    background-color: rgb(92, 138, 139);
+    height: 100%;
+    width: 60vw;
+}
+
+label{
+    margin-right: 3rem;
+    margin-left: auto;
+
+}
+input{
+    width: 200px;
+    height: 1rem;
+    margin-left: 2rem;
+    margin-right: auto;
+}
