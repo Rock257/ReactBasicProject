@@ -1,14 +1,18 @@
+*{
+  background-color: #282c34;
+  color: #b2c1e0;
+}
+
 .App {
   text-align: center;
-}
-body{
-    background-color: #282c34;
-}
-.App-header {
   display: flex;
   align-items: center;
   justify-content: center;
   color: white;
 }
+/* body{
+  background-color: #282c34;
+  color: #b2c1e0;
+} */
 
 

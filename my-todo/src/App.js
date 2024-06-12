@@ -1,12 +1,19 @@
 import './App.css';
-import FormProject from './Projects/FormProject';
+// import FormProject from './Projects/FormProject';
+import JokeApp from './Projects/Joke/JokeApp';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <FormProject/>
-      </header>
+      <div className="form-projet">
+          {/* <FormProject/>
+           */}
+      </div>
+
+      <div className="joke-project">
+          <JokeApp/>
+      </div>
+      
     </div>
   );
 }
